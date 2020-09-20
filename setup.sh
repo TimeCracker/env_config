@@ -27,19 +27,19 @@ echo HOME=${new_home} >> ${ori_home}/.zshrc
 echo 'cd $HOME && source .zshrc' >> ${ori_home}/.zshrc
 echo 'home variable:'$HOME
 
-#bash ${cur_script_dir}/neovim_install.sh
-#
-#if [[ -d "${new_home}/.config" ]]; then
-#    rm -rf ${new_home}/.config/*
-#	echo "copy config"
-#    cp -rf ${cur_script_dir}/nvim ${new_home}/.config
-#    cp -rf ${cur_script_dir}/coc ${new_home}/.config
-#else
-#    mkdir ${new_home}/.config
-#	echo "copy config"
-#    cp -rf ${cur_script_dir}/nvim ${new_home}/.config
-#    cp -rf ${cur_script_dir}/coc ${new_home}/.config
-#fi
+bash ${cur_script_dir}/neovim_install.sh
+
+if [[ -d "${new_home}/.config" ]]; then
+    rm -rf ${new_home}/.config/*
+	echo "copy config"
+    cp -rf ${cur_script_dir}/nvim ${new_home}/.config
+    cp -rf ${cur_script_dir}/coc ${new_home}/.config
+else
+    mkdir ${new_home}/.config
+	echo "copy config"
+    cp -rf ${cur_script_dir}/nvim ${new_home}/.config
+    cp -rf ${cur_script_dir}/coc ${new_home}/.config
+fi
 
 echo "Now you need to run: zsh -> source ~/.zshrc -> :PlugInstall in nvim"
 echo "Now you need to run: zsh -> source ~/.zshrc -> :PlugInstall in nvim"
