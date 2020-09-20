@@ -1,0 +1,1900 @@
+{
+  "coc-python|global": {
+    "INTERPRETERS_CACHE_v3_CondaEnvFileService": [],
+    "INTERPRETERS_CACHE_v3_CondaEnvService": [],
+    "INTERPRETERS_CACHE_v3_VirtualEnvService": [],
+    "/usr/bin/python3.5.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python3.5",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.5.2-final",
+          "major": 3,
+          "minor": 5,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.5.2-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "1fe4c14e0e688ee43b596493af604d9b9d238de391a33ff19bc92151b8300c0b96acb0e59def04378bd6a80cd19bc8d71cccf5ad13eb02156ccb5996d88bb271"
+      },
+      "expiry": 1600424990331
+    },
+    "/usr/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.5.2-final",
+          "major": 3,
+          "minor": 5,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.5.2-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "4221e31da6b29a9528b1bffc751a1e3b97bbb341c3017da4cb6ea8fbd30002eb2871d3aae033533c204b99b97c43f464f7c8a28d96cebed87c7099c25990e78e"
+      },
+      "expiry": 1600424990315
+    },
+    "/usr/bin/python2.7.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.12-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.12-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "16126fc7d87cdbd0eda5ecd990e6e98fe5b7dc4d0642b54d485fadf6044d2b38a928d718af0908cac0645f4f302c7902c93df76702bdcd04b626b045730f3b4d"
+      },
+      "expiry": 1600424990316
+    },
+    "/usr/bin/python2.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.12-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.12-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "7ff2911a1a291cd44d3c470d30ec128eb7af91108ab289720a37032f7fc04c4cda7465d26edf93f6eb6dd0280561cbfa3c7132a96873ebfd88c2fbdc0a0a5a6f"
+      },
+      "expiry": 1600424990318
+    },
+    "/usr/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.12-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.12-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "7ff2911a1a291cd44d3c470d30ec128eb7af91108ab289720a37032f7fc04c4cda7465d26edf93f6eb6dd0280561cbfa3c7132a96873ebfd88c2fbdc0a0a5a6f"
+      },
+      "expiry": 1600424990319
+    },
+    "/usr/bin/python3.7.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python3.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.7-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.7-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "e6095b1a072f34867c593617eb623615cb6d2092211d5feeebf76d8db29b5e15ba42e1f084f082d58627d64a03daacfee7f9ebbd86efa45c79eb5bbcb154dec7"
+      },
+      "expiry": 1600424990330
+    },
+    "INTERPRETERS_CACHE_v3_CurrentPathService": [
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.7-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.7-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "e6095b1a072f34867c593617eb623615cb6d2092211d5feeebf76d8db29b5e15ba42e1f084f082d58627d64a03daacfee7f9ebbd86efa45c79eb5bbcb154dec7",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.5.2-final",
+          "major": 3,
+          "minor": 5,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.5.2-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "4221e31da6b29a9528b1bffc751a1e3b97bbb341c3017da4cb6ea8fbd30002eb2871d3aae033533c204b99b97c43f464f7c8a28d96cebed87c7099c25990e78e",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.12-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.12-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "7ff2911a1a291cd44d3c470d30ec128eb7af91108ab289720a37032f7fc04c4cda7465d26edf93f6eb6dd0280561cbfa3c7132a96873ebfd88c2fbdc0a0a5a6f",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.12-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.12-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "7ff2911a1a291cd44d3c470d30ec128eb7af91108ab289720a37032f7fc04c4cda7465d26edf93f6eb6dd0280561cbfa3c7132a96873ebfd88c2fbdc0a0a5a6f",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.12-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.12-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "7ff2911a1a291cd44d3c470d30ec128eb7af91108ab289720a37032f7fc04c4cda7465d26edf93f6eb6dd0280561cbfa3c7132a96873ebfd88c2fbdc0a0a5a6f",
+        "type": "Unknown"
+      }
+    ],
+    "InterpreterAutoSeletionRule-currentPath": {
+      "architecture": 3,
+      "path": "/usr/bin/python3.7",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.7.7-final",
+        "major": 3,
+        "minor": 7,
+        "patch": 7,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.7.7-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "e6095b1a072f34867c593617eb623615cb6d2092211d5feeebf76d8db29b5e15ba42e1f084f082d58627d64a03daacfee7f9ebbd86efa45c79eb5bbcb154dec7",
+      "type": "Unknown"
+    },
+    "preferredGlobalPyInterpreter": {
+      "architecture": 3,
+      "path": "/usr/bin/python3.7",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.7.7-final",
+        "major": 3,
+        "minor": 7,
+        "patch": 7,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.7.7-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "e6095b1a072f34867c593617eb623615cb6d2092211d5feeebf76d8db29b5e15ba42e1f084f082d58627d64a03daacfee7f9ebbd86efa45c79eb5bbcb154dec7",
+      "type": "Unknown",
+      "displayName": "Python 3.7.7 64-bit"
+    },
+    "ProposeLSBanner": false,
+    "INTERPRETERS_CACHE_v3_KnownPathsService": [
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.12-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.12-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "7ff2911a1a291cd44d3c470d30ec128eb7af91108ab289720a37032f7fc04c4cda7465d26edf93f6eb6dd0280561cbfa3c7132a96873ebfd88c2fbdc0a0a5a6f",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.12-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.12-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "7ff2911a1a291cd44d3c470d30ec128eb7af91108ab289720a37032f7fc04c4cda7465d26edf93f6eb6dd0280561cbfa3c7132a96873ebfd88c2fbdc0a0a5a6f",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.12-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.12-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "16126fc7d87cdbd0eda5ecd990e6e98fe5b7dc4d0642b54d485fadf6044d2b38a928d718af0908cac0645f4f302c7902c93df76702bdcd04b626b045730f3b4d",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.5.2-final",
+          "major": 3,
+          "minor": 5,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.5.2-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "4221e31da6b29a9528b1bffc751a1e3b97bbb341c3017da4cb6ea8fbd30002eb2871d3aae033533c204b99b97c43f464f7c8a28d96cebed87c7099c25990e78e",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3.5",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.5.2-final",
+          "major": 3,
+          "minor": 5,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.5.2-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "1fe4c14e0e688ee43b596493af604d9b9d238de391a33ff19bc92151b8300c0b96acb0e59def04378bd6a80cd19bc8d71cccf5ad13eb02156ccb5996d88bb271",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.7-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.7-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "e6095b1a072f34867c593617eb623615cb6d2092211d5feeebf76d8db29b5e15ba42e1f084f082d58627d64a03daacfee7f9ebbd86efa45c79eb5bbcb154dec7",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.12-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.12-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "7ff2911a1a291cd44d3c470d30ec128eb7af91108ab289720a37032f7fc04c4cda7465d26edf93f6eb6dd0280561cbfa3c7132a96873ebfd88c2fbdc0a0a5a6f",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.12-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.12-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "7ff2911a1a291cd44d3c470d30ec128eb7af91108ab289720a37032f7fc04c4cda7465d26edf93f6eb6dd0280561cbfa3c7132a96873ebfd88c2fbdc0a0a5a6f",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.12-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.12-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "16126fc7d87cdbd0eda5ecd990e6e98fe5b7dc4d0642b54d485fadf6044d2b38a928d718af0908cac0645f4f302c7902c93df76702bdcd04b626b045730f3b4d",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.5.2-final",
+          "major": 3,
+          "minor": 5,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.5.2-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "4221e31da6b29a9528b1bffc751a1e3b97bbb341c3017da4cb6ea8fbd30002eb2871d3aae033533c204b99b97c43f464f7c8a28d96cebed87c7099c25990e78e",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3.5",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.5.2-final",
+          "major": 3,
+          "minor": 5,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.5.2-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "1fe4c14e0e688ee43b596493af604d9b9d238de391a33ff19bc92151b8300c0b96acb0e59def04378bd6a80cd19bc8d71cccf5ad13eb02156ccb5996d88bb271",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.7-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.7-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "e6095b1a072f34867c593617eb623615cb6d2092211d5feeebf76d8db29b5e15ba42e1f084f082d58627d64a03daacfee7f9ebbd86efa45c79eb5bbcb154dec7",
+        "type": "Unknown"
+      }
+    ],
+    "PipEnvInformation": [],
+    "/usr/bin/python3.7.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "e6095b1a072f34867c593617eb623615cb6d2092211d5feeebf76d8db29b5e15ba42e1f084f082d58627d64a03daacfee7f9ebbd86efa45c79eb5bbcb154dec7",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/bin/python3.7",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.7.7-final",
+            "major": 3,
+            "minor": 7,
+            "patch": 7,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.7.7-final"
+          },
+          "sysPrefix": "/usr",
+          "fileHash": "e6095b1a072f34867c593617eb623615cb6d2092211d5feeebf76d8db29b5e15ba42e1f084f082d58627d64a03daacfee7f9ebbd86efa45c79eb5bbcb154dec7",
+          "type": "Unknown",
+          "displayName": "Python 3.7.7 64-bit"
+        }
+      },
+      "expiry": 1600507184078
+    },
+    "/usr/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 2.7.12 64-bit",
+        "hash": "7ff2911a1a291cd44d3c470d30ec128eb7af91108ab289720a37032f7fc04c4cda7465d26edf93f6eb6dd0280561cbfa3c7132a96873ebfd88c2fbdc0a0a5a6f-d7fc0a03ee647a3416b2363b2e38fbfd"
+      },
+      "expiry": 1600424990401
+    },
+    "/usr/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.5.2 64-bit",
+        "hash": "4221e31da6b29a9528b1bffc751a1e3b97bbb341c3017da4cb6ea8fbd30002eb2871d3aae033533c204b99b97c43f464f7c8a28d96cebed87c7099c25990e78e-3b36750db82394c54eb37cc8fdb9b73b"
+      },
+      "expiry": 1600424990406
+    },
+    "/usr/bin/python3.7.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.7.7 64-bit",
+        "hash": "e6095b1a072f34867c593617eb623615cb6d2092211d5feeebf76d8db29b5e15ba42e1f084f082d58627d64a03daacfee7f9ebbd86efa45c79eb5bbcb154dec7-ece5c19455fa12a4a6df67fd98c75ac5"
+      },
+      "expiry": 1600424990541
+    },
+    "InterpreterAutoSeletionRule-system": {
+      "architecture": 3,
+      "path": "/usr/bin/python3.7",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.7.7-final",
+        "major": 3,
+        "minor": 7,
+        "patch": 7,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.7.7-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "e6095b1a072f34867c593617eb623615cb6d2092211d5feeebf76d8db29b5e15ba42e1f084f082d58627d64a03daacfee7f9ebbd86efa45c79eb5bbcb154dec7",
+      "type": "Unknown",
+      "displayName": "Python 3.7.7 64-bit"
+    },
+    "/usr/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "7ff2911a1a291cd44d3c470d30ec128eb7af91108ab289720a37032f7fc04c4cda7465d26edf93f6eb6dd0280561cbfa3c7132a96873ebfd88c2fbdc0a0a5a6f",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "2.7.12-final",
+            "major": 2,
+            "minor": 7,
+            "patch": 12,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "2.7.12-final"
+          },
+          "sysPrefix": "/usr",
+          "fileHash": "7ff2911a1a291cd44d3c470d30ec128eb7af91108ab289720a37032f7fc04c4cda7465d26edf93f6eb6dd0280561cbfa3c7132a96873ebfd88c2fbdc0a0a5a6f",
+          "type": "Unknown",
+          "displayName": "Python 2.7.12 64-bit"
+        }
+      },
+      "expiry": 1600424990423
+    },
+    "/usr/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "4221e31da6b29a9528b1bffc751a1e3b97bbb341c3017da4cb6ea8fbd30002eb2871d3aae033533c204b99b97c43f464f7c8a28d96cebed87c7099c25990e78e",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.5.2-final",
+            "major": 3,
+            "minor": 5,
+            "patch": 2,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.5.2-final"
+          },
+          "sysPrefix": "/usr",
+          "fileHash": "4221e31da6b29a9528b1bffc751a1e3b97bbb341c3017da4cb6ea8fbd30002eb2871d3aae033533c204b99b97c43f464f7c8a28d96cebed87c7099c25990e78e",
+          "type": "Unknown",
+          "displayName": "Python 3.5.2 64-bit"
+        }
+      },
+      "expiry": 1600424990428
+    },
+    "InterpreterAutoSeletionRule-cachedInterpreters": {
+      "architecture": 3,
+      "path": "/usr/bin/python3.7",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.7.7-final",
+        "major": 3,
+        "minor": 7,
+        "patch": 7,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.7.7-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "e6095b1a072f34867c593617eb623615cb6d2092211d5feeebf76d8db29b5e15ba42e1f084f082d58627d64a03daacfee7f9ebbd86efa45c79eb5bbcb154dec7",
+      "type": "Unknown",
+      "displayName": "Python 3.7.7 64-bit"
+    },
+    "/data3/wanghuaidong/dev/tf_env/v15c.lite/venv/bin/python2.7.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/data3/wanghuaidong/dev/tf_env/v15c.lite/venv/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.12-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.12-final"
+        },
+        "sysPrefix": "/data3/wanghuaidong/dev/tf_env/v15c.lite/venv",
+        "fileHash": "aad0ed662154d2b7bbb44d4ad1ab5aeeda91747847f4f993bc37c322ff0e3c854597ab69db199d7725df06afe1b022618da28866a35a223f75dee0280246187d"
+      },
+      "expiry": 1599535854266
+    },
+    "/data3/wanghuaidong/dev/tf_env/v15c.lite/venv/bin/python2.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/data3/wanghuaidong/dev/tf_env/v15c.lite/venv/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.12-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.12-final"
+        },
+        "sysPrefix": "/data3/wanghuaidong/dev/tf_env/v15c.lite/venv",
+        "fileHash": "aad0ed662154d2b7bbb44d4ad1ab5aeeda91747847f4f993bc37c322ff0e3c854597ab69db199d7725df06afe1b022618da28866a35a223f75dee0280246187d"
+      },
+      "expiry": 1599535854267
+    },
+    "/data3/wanghuaidong/dev/tf_env/v15c.lite/venv/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/data3/wanghuaidong/dev/tf_env/v15c.lite/venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.12-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.12-final"
+        },
+        "sysPrefix": "/data3/wanghuaidong/dev/tf_env/v15c.lite/venv",
+        "fileHash": "aad0ed662154d2b7bbb44d4ad1ab5aeeda91747847f4f993bc37c322ff0e3c854597ab69db199d7725df06afe1b022618da28866a35a223f75dee0280246187d"
+      },
+      "expiry": 1599535854268
+    },
+    "/data3/wanghuaidong/dev/tf_env/v15c.lite/venv/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 2.7.12 64-bit",
+        "hash": "aad0ed662154d2b7bbb44d4ad1ab5aeeda91747847f4f993bc37c322ff0e3c854597ab69db199d7725df06afe1b022618da28866a35a223f75dee0280246187d-e2ba51c63ff8715100a271bd4a79424d"
+      },
+      "expiry": 1599558559566
+    },
+    "/data3/wanghuaidong/dev/tf_env/v15c.lite/venv/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "aad0ed662154d2b7bbb44d4ad1ab5aeeda91747847f4f993bc37c322ff0e3c854597ab69db199d7725df06afe1b022618da28866a35a223f75dee0280246187d",
+        "info": {
+          "architecture": 3,
+          "path": "/data3/wanghuaidong/dev/tf_env/v15c.lite/venv/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "2.7.12-final",
+            "major": 2,
+            "minor": 7,
+            "patch": 12,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "2.7.12-final"
+          },
+          "sysPrefix": "/data3/wanghuaidong/dev/tf_env/v15c.lite/venv",
+          "fileHash": "aad0ed662154d2b7bbb44d4ad1ab5aeeda91747847f4f993bc37c322ff0e3c854597ab69db199d7725df06afe1b022618da28866a35a223f75dee0280246187d",
+          "type": "Unknown",
+          "displayName": "Python 2.7.12 64-bit"
+        }
+      },
+      "expiry": 1599558559612
+    },
+    "/data3/wanghuaidong/dev/tf_env/v15c.lite/venv/bin/python2.7.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "aad0ed662154d2b7bbb44d4ad1ab5aeeda91747847f4f993bc37c322ff0e3c854597ab69db199d7725df06afe1b022618da28866a35a223f75dee0280246187d"
+      },
+      "expiry": 1599535854426
+    },
+    "/data3/wanghuaidong/dev/tf_env/v15c.lite/venv/bin/python2.7.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 2.7.12 64-bit ('venv': venv)",
+        "hash": "aad0ed662154d2b7bbb44d4ad1ab5aeeda91747847f4f993bc37c322ff0e3c854597ab69db199d7725df06afe1b022618da28866a35a223f75dee0280246187d-8e15e5ce559eac529e6945aa4e23fe8d"
+      },
+      "expiry": 1599535854495
+    },
+    "/data3/wanghuaidong/dev/tf_env/transform_model/venv/bin/python2.7.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/data3/wanghuaidong/dev/tf_env/transform_model/venv/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.12-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.12-final"
+        },
+        "sysPrefix": "/data3/wanghuaidong/dev/tf_env/transform_model/venv",
+        "fileHash": "8902e959dd728e40d144b50088dc591b09f9537d61551ecf05fd55cc8b8e9634ac4e17822986316c74dd7e92004049bf5120fa26b71bb3eaf93c8af2ff07cab7"
+      },
+      "expiry": 1600237491121
+    },
+    "/data3/wanghuaidong/dev/tf_env/transform_model/venv/bin/python2.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/data3/wanghuaidong/dev/tf_env/transform_model/venv/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.12-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.12-final"
+        },
+        "sysPrefix": "/data3/wanghuaidong/dev/tf_env/transform_model/venv",
+        "fileHash": "8902e959dd728e40d144b50088dc591b09f9537d61551ecf05fd55cc8b8e9634ac4e17822986316c74dd7e92004049bf5120fa26b71bb3eaf93c8af2ff07cab7"
+      },
+      "expiry": 1600237491118
+    },
+    "/data3/wanghuaidong/dev/tf_env/transform_model/venv/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/data3/wanghuaidong/dev/tf_env/transform_model/venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.12-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.12-final"
+        },
+        "sysPrefix": "/data3/wanghuaidong/dev/tf_env/transform_model/venv",
+        "fileHash": "57af9d008de1677f4ba181758899b79a5012eb90b3b48d43e407b966c9461164c62661051fa153f850e8362a5d52c524dc5bffdd3beb8fe605f2a54a8a98f715"
+      },
+      "expiry": 1600237491120
+    },
+    "/data3/wanghuaidong/dev/tf_env/transform_model/venv/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 2.7.12 64-bit ('venv': venv)",
+        "hash": "57af9d008de1677f4ba181758899b79a5012eb90b3b48d43e407b966c9461164c62661051fa153f850e8362a5d52c524dc5bffdd3beb8fe605f2a54a8a98f715-dc3bfb65366c241f7a156c5fab9bb38f"
+      },
+      "expiry": 1600237491252
+    },
+    "/data3/wanghuaidong/dev/tf_env/transform_model/venv/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "57af9d008de1677f4ba181758899b79a5012eb90b3b48d43e407b966c9461164c62661051fa153f850e8362a5d52c524dc5bffdd3beb8fe605f2a54a8a98f715",
+        "info": {
+          "architecture": 3,
+          "path": "/data3/wanghuaidong/dev/tf_env/transform_model/venv/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "2.7.12-final",
+            "major": 2,
+            "minor": 7,
+            "patch": 12,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "2.7.12-final"
+          },
+          "sysPrefix": "/data3/wanghuaidong/dev/tf_env/transform_model/venv",
+          "fileHash": "57af9d008de1677f4ba181758899b79a5012eb90b3b48d43e407b966c9461164c62661051fa153f850e8362a5d52c524dc5bffdd3beb8fe605f2a54a8a98f715",
+          "envName": "venv",
+          "type": "Venv",
+          "displayName": "Python 2.7.12 64-bit ('venv': venv)",
+          "__store": true
+        }
+      },
+      "expiry": 1600237491245
+    },
+    "/data7/panyunpeng/transform_model/venv/bin/python2.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/data7/panyunpeng/transform_model/venv/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.12-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.12-final"
+        },
+        "sysPrefix": "/data7/panyunpeng/transform_model/venv",
+        "fileHash": "ef303f393313f207548e0c1f1faf1e94bb8a2a0b40174d29179ed74205f6b8cdb3dd22147a44ffb6ea4ca4a0716c0f57b7f614e7eb947c1979c5f1df83a14f85"
+      },
+      "expiry": 1600313708748
+    },
+    "/data7/panyunpeng/transform_model/venv/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/data7/panyunpeng/transform_model/venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.12-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.12-final"
+        },
+        "sysPrefix": "/data7/panyunpeng/transform_model/venv",
+        "fileHash": "ef303f393313f207548e0c1f1faf1e94bb8a2a0b40174d29179ed74205f6b8cdb3dd22147a44ffb6ea4ca4a0716c0f57b7f614e7eb947c1979c5f1df83a14f85"
+      },
+      "expiry": 1600313708749
+    },
+    "/data7/panyunpeng/transform_model/venv/bin/python2.7.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/data7/panyunpeng/transform_model/venv/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.12-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.12-final"
+        },
+        "sysPrefix": "/data7/panyunpeng/transform_model/venv",
+        "fileHash": "66f53e69ef2fe3986491db48be78e921db79a021661bd5b70e7ac8ad96d382acda7e05559d229f8751da9d6d9652ef20e145c67e8bf49b4e98a5dbd0ef8aa508"
+      },
+      "expiry": 1600313708742
+    },
+    "/data7/panyunpeng/transform_model/venv/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 2.7.12 64-bit ('venv': venv)",
+        "hash": "ef303f393313f207548e0c1f1faf1e94bb8a2a0b40174d29179ed74205f6b8cdb3dd22147a44ffb6ea4ca4a0716c0f57b7f614e7eb947c1979c5f1df83a14f85-55c79b6ff09fcd602cba73cd52fc7e1f"
+      },
+      "expiry": 1600313708993
+    },
+    "/data7/panyunpeng/transform_model/venv/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "ef303f393313f207548e0c1f1faf1e94bb8a2a0b40174d29179ed74205f6b8cdb3dd22147a44ffb6ea4ca4a0716c0f57b7f614e7eb947c1979c5f1df83a14f85",
+        "info": {
+          "architecture": 3,
+          "path": "/data7/panyunpeng/transform_model/venv/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "2.7.12-final",
+            "major": 2,
+            "minor": 7,
+            "patch": 12,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "2.7.12-final"
+          },
+          "sysPrefix": "/data7/panyunpeng/transform_model/venv",
+          "fileHash": "ef303f393313f207548e0c1f1faf1e94bb8a2a0b40174d29179ed74205f6b8cdb3dd22147a44ffb6ea4ca4a0716c0f57b7f614e7eb947c1979c5f1df83a14f85",
+          "envName": "venv",
+          "type": "Venv",
+          "displayName": "Python 2.7.12 64-bit ('venv': venv)"
+        }
+      },
+      "expiry": 1600313709008
+    },
+    "/data7/panyunpeng/transform_model/venv/bin/python2.7.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "66f53e69ef2fe3986491db48be78e921db79a021661bd5b70e7ac8ad96d382acda7e05559d229f8751da9d6d9652ef20e145c67e8bf49b4e98a5dbd0ef8aa508"
+      },
+      "expiry": 1600313708906
+    },
+    "/data7/panyunpeng/transform_model/venv/bin/python2.7.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 2.7.12 64-bit ('venv': venv)",
+        "hash": "66f53e69ef2fe3986491db48be78e921db79a021661bd5b70e7ac8ad96d382acda7e05559d229f8751da9d6d9652ef20e145c67e8bf49b4e98a5dbd0ef8aa508-8133dcdec2051b7448382f380c5bee42"
+      },
+      "expiry": 1600313708990
+    }
+  },
+  "coc-python|/data3/wanghuaidong/.config/nvim": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:67caa6249e6b45095e3551227ca21b52": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:67caa6249e6b45095e3551227ca21b52": [],
+    "autoSelectedWorkspacePythonInterpreter-/data3/wanghuaidong/.config/nvim": {
+      "architecture": 3,
+      "path": "/usr/bin/python3.7",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.7.7-final",
+        "major": 3,
+        "minor": 7,
+        "patch": 7,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.7.7-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "e6095b1a072f34867c593617eb623615cb6d2092211d5feeebf76d8db29b5e15ba42e1f084f082d58627d64a03daacfee7f9ebbd86efa45c79eb5bbcb154dec7",
+      "type": "Unknown"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/data3/wanghuaidong/.config/nvim/tm": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:c897f62594af40539a5041c3e262fd0e": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:c897f62594af40539a5041c3e262fd0e": [],
+    "SelectedPythonPath": "/usr/bin/python",
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/data10/zhanyifeng/workspace/tensorswitch": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:43fc53ce7ab1bfa5137bfb66e07acb1e": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:43fc53ce7ab1bfa5137bfb66e07acb1e": [],
+    "autoSelectedWorkspacePythonInterpreter-/data10/zhanyifeng/workspace/tensorswitch": {
+      "architecture": 3,
+      "path": "/usr/bin/python3.7",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.7.7-final",
+        "major": 3,
+        "minor": 7,
+        "patch": 7,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.7.7-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "e6095b1a072f34867c593617eb623615cb6d2092211d5feeebf76d8db29b5e15ba42e1f084f082d58627d64a03daacfee7f9ebbd86efa45c79eb5bbcb154dec7",
+      "type": "Unknown"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/data3/wanghuaidong/dev/tf_env/v15c.lite": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:4a80b68c9943cb8c959b80840bf7da45": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:4a80b68c9943cb8c959b80840bf7da45": [
+      {
+        "architecture": 3,
+        "path": "/data3/wanghuaidong/dev/tf_env/v15c.lite/venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.12-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.12-final"
+        },
+        "sysPrefix": "/data3/wanghuaidong/dev/tf_env/v15c.lite/venv",
+        "fileHash": "aad0ed662154d2b7bbb44d4ad1ab5aeeda91747847f4f993bc37c322ff0e3c854597ab69db199d7725df06afe1b022618da28866a35a223f75dee0280246187d",
+        "envName": "venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/data3/wanghuaidong/dev/tf_env/v15c.lite/venv/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.12-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.12-final"
+        },
+        "sysPrefix": "/data3/wanghuaidong/dev/tf_env/v15c.lite/venv",
+        "fileHash": "aad0ed662154d2b7bbb44d4ad1ab5aeeda91747847f4f993bc37c322ff0e3c854597ab69db199d7725df06afe1b022618da28866a35a223f75dee0280246187d",
+        "envName": "venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/data3/wanghuaidong/dev/tf_env/v15c.lite/venv/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.12-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.12-final"
+        },
+        "sysPrefix": "/data3/wanghuaidong/dev/tf_env/v15c.lite/venv",
+        "fileHash": "aad0ed662154d2b7bbb44d4ad1ab5aeeda91747847f4f993bc37c322ff0e3c854597ab69db199d7725df06afe1b022618da28866a35a223f75dee0280246187d",
+        "envName": "venv",
+        "type": "Venv"
+      }
+    ],
+    "SelectedPythonPath": "/data3/wanghuaidong/dev/tf_env/v15c.lite/venv/bin/python2.7",
+    "autoSelectedWorkspacePythonInterpreter-/data3/wanghuaidong/dev/tf_env/v15c.lite": {
+      "architecture": 3,
+      "path": "/data3/wanghuaidong/dev/tf_env/v15c.lite/venv/bin/python2.7",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "2.7.12-final",
+        "major": 2,
+        "minor": 7,
+        "patch": 12,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "2.7.12-final"
+      },
+      "sysPrefix": "/data3/wanghuaidong/dev/tf_env/v15c.lite/venv",
+      "fileHash": "aad0ed662154d2b7bbb44d4ad1ab5aeeda91747847f4f993bc37c322ff0e3c854597ab69db199d7725df06afe1b022618da28866a35a223f75dee0280246187d",
+      "envName": "venv",
+      "type": "Venv"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [
+      {
+        "architecture": 3,
+        "path": "/data3/wanghuaidong/dev/tf_env/v15c.lite/venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.12-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.12-final"
+        },
+        "sysPrefix": "/data3/wanghuaidong/dev/tf_env/v15c.lite/venv",
+        "fileHash": "aad0ed662154d2b7bbb44d4ad1ab5aeeda91747847f4f993bc37c322ff0e3c854597ab69db199d7725df06afe1b022618da28866a35a223f75dee0280246187d",
+        "envName": "venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/data3/wanghuaidong/dev/tf_env/v15c.lite/venv/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.12-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.12-final"
+        },
+        "sysPrefix": "/data3/wanghuaidong/dev/tf_env/v15c.lite/venv",
+        "fileHash": "aad0ed662154d2b7bbb44d4ad1ab5aeeda91747847f4f993bc37c322ff0e3c854597ab69db199d7725df06afe1b022618da28866a35a223f75dee0280246187d",
+        "envName": "venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/data3/wanghuaidong/dev/tf_env/v15c.lite/venv/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.12-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.12-final"
+        },
+        "sysPrefix": "/data3/wanghuaidong/dev/tf_env/v15c.lite/venv",
+        "fileHash": "aad0ed662154d2b7bbb44d4ad1ab5aeeda91747847f4f993bc37c322ff0e3c854597ab69db199d7725df06afe1b022618da28866a35a223f75dee0280246187d",
+        "envName": "venv",
+        "type": "Venv"
+      }
+    ]
+  },
+  "coc-python|/data3/wanghuaidong/dev/tf_env": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:c414243e58b058c0b10a20484134c9e5": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:c414243e58b058c0b10a20484134c9e5": [],
+    "SelectedPythonPath": "/data3/wanghuaidong/dev/tf_env/v15c.lite/venv/bin/python",
+    "autoSelectedWorkspacePythonInterpreter-/data3/wanghuaidong/dev/tf_env": {
+      "architecture": 3,
+      "path": "/data3/wanghuaidong/dev/tf_env/v15c.lite/venv/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "2.7.12-final",
+        "major": 2,
+        "minor": 7,
+        "patch": 12,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "2.7.12-final"
+      },
+      "sysPrefix": "/data3/wanghuaidong/dev/tf_env/v15c.lite/venv",
+      "fileHash": "aad0ed662154d2b7bbb44d4ad1ab5aeeda91747847f4f993bc37c322ff0e3c854597ab69db199d7725df06afe1b022618da28866a35a223f75dee0280246187d",
+      "type": "VirtualEnv"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/data3/wanghuaidong/dev/tf_env/tensorswitch": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:f3a1ff276c6a0b3edb1b6d51e2c2c93d": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:f3a1ff276c6a0b3edb1b6d51e2c2c93d": [],
+    "autoSelectedWorkspacePythonInterpreter-/data3/wanghuaidong/dev/tf_env/tensorswitch": {
+      "architecture": 3,
+      "path": "/usr/bin/python3.7",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.7.7-final",
+        "major": 3,
+        "minor": 7,
+        "patch": 7,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.7.7-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "e6095b1a072f34867c593617eb623615cb6d2092211d5feeebf76d8db29b5e15ba42e1f084f082d58627d64a03daacfee7f9ebbd86efa45c79eb5bbcb154dec7",
+      "type": "Unknown",
+      "displayName": "Python 3.7.7 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/data3/wanghuaidong/dev/ts_tools/tensorswitch/python/tensorswitch": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:314b94a4e57dda84d1c1ab13231eba3f": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:314b94a4e57dda84d1c1ab13231eba3f": [],
+    "autoSelectedWorkspacePythonInterpreter-/data3/wanghuaidong/dev/ts_tools/tensorswitch/python/tensorswitch": {
+      "architecture": 3,
+      "path": "/usr/bin/python3.7",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.7.7-final",
+        "major": 3,
+        "minor": 7,
+        "patch": 7,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.7.7-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "e6095b1a072f34867c593617eb623615cb6d2092211d5feeebf76d8db29b5e15ba42e1f084f082d58627d64a03daacfee7f9ebbd86efa45c79eb5bbcb154dec7",
+      "type": "Unknown",
+      "displayName": "Python 3.7.7 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/data3/wanghuaidong/dev/tf_env/transform_model": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:5d01d021262c665672410a46f7787de9": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:5d01d021262c665672410a46f7787de9": [
+      {
+        "architecture": 3,
+        "path": "/data3/wanghuaidong/dev/tf_env/transform_model/venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.12-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.12-final"
+        },
+        "sysPrefix": "/data3/wanghuaidong/dev/tf_env/transform_model/venv",
+        "fileHash": "57af9d008de1677f4ba181758899b79a5012eb90b3b48d43e407b966c9461164c62661051fa153f850e8362a5d52c524dc5bffdd3beb8fe605f2a54a8a98f715",
+        "envName": "venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/data3/wanghuaidong/dev/tf_env/transform_model/venv/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.12-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.12-final"
+        },
+        "sysPrefix": "/data3/wanghuaidong/dev/tf_env/transform_model/venv",
+        "fileHash": "8902e959dd728e40d144b50088dc591b09f9537d61551ecf05fd55cc8b8e9634ac4e17822986316c74dd7e92004049bf5120fa26b71bb3eaf93c8af2ff07cab7",
+        "envName": "venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/data3/wanghuaidong/dev/tf_env/transform_model/venv/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.12-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.12-final"
+        },
+        "sysPrefix": "/data3/wanghuaidong/dev/tf_env/transform_model/venv",
+        "fileHash": "8902e959dd728e40d144b50088dc591b09f9537d61551ecf05fd55cc8b8e9634ac4e17822986316c74dd7e92004049bf5120fa26b71bb3eaf93c8af2ff07cab7",
+        "envName": "venv",
+        "type": "Venv"
+      }
+    ],
+    "SelectedPythonPath": "/data3/wanghuaidong/dev/tf_env/transform_model/venv/bin/python",
+    "autoSelectedWorkspacePythonInterpreter-/data3/wanghuaidong/dev/tf_env/transform_model": {
+      "architecture": 3,
+      "path": "/data3/wanghuaidong/dev/tf_env/transform_model/venv/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "2.7.12-final",
+        "major": 2,
+        "minor": 7,
+        "patch": 12,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "2.7.12-final"
+      },
+      "sysPrefix": "/data3/wanghuaidong/dev/tf_env/transform_model/venv",
+      "fileHash": "57af9d008de1677f4ba181758899b79a5012eb90b3b48d43e407b966c9461164c62661051fa153f850e8362a5d52c524dc5bffdd3beb8fe605f2a54a8a98f715",
+      "type": "VirtualEnv"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [
+      {
+        "architecture": 3,
+        "path": "/data3/wanghuaidong/dev/tf_env/transform_model/venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.12-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.12-final"
+        },
+        "sysPrefix": "/data3/wanghuaidong/dev/tf_env/transform_model/venv",
+        "fileHash": "57af9d008de1677f4ba181758899b79a5012eb90b3b48d43e407b966c9461164c62661051fa153f850e8362a5d52c524dc5bffdd3beb8fe605f2a54a8a98f715",
+        "envName": "venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/data3/wanghuaidong/dev/tf_env/transform_model/venv/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.12-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.12-final"
+        },
+        "sysPrefix": "/data3/wanghuaidong/dev/tf_env/transform_model/venv",
+        "fileHash": "8902e959dd728e40d144b50088dc591b09f9537d61551ecf05fd55cc8b8e9634ac4e17822986316c74dd7e92004049bf5120fa26b71bb3eaf93c8af2ff07cab7",
+        "envName": "venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/data3/wanghuaidong/dev/tf_env/transform_model/venv/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.12-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.12-final"
+        },
+        "sysPrefix": "/data3/wanghuaidong/dev/tf_env/transform_model/venv",
+        "fileHash": "8902e959dd728e40d144b50088dc591b09f9537d61551ecf05fd55cc8b8e9634ac4e17822986316c74dd7e92004049bf5120fa26b71bb3eaf93c8af2ff07cab7",
+        "envName": "venv",
+        "type": "Venv"
+      }
+    ]
+  },
+  "coc-python|/data3/wanghuaidong/dev/ts_tools": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:cb7e68176649bc9fe9b26b281bb4d6d3": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:cb7e68176649bc9fe9b26b281bb4d6d3": [],
+    "autoSelectedWorkspacePythonInterpreter-/data3/wanghuaidong/dev/ts_tools": {
+      "architecture": 3,
+      "path": "/usr/bin/python3.7",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.7.7-final",
+        "major": 3,
+        "minor": 7,
+        "patch": 7,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.7.7-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "e6095b1a072f34867c593617eb623615cb6d2092211d5feeebf76d8db29b5e15ba42e1f084f082d58627d64a03daacfee7f9ebbd86efa45c79eb5bbcb154dec7",
+      "type": "Unknown",
+      "displayName": "Python 3.7.7 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/data3/wanghuaidong/dev/tf_env/transform_model/xtools": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:e8c77ee689485c949a22fe7aae4898f6": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:e8c77ee689485c949a22fe7aae4898f6": [],
+    "autoSelectedWorkspacePythonInterpreter-/data3/wanghuaidong/dev/tf_env/transform_model/xtools": {
+      "architecture": 3,
+      "path": "/usr/bin/python3.7",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.7.7-final",
+        "major": 3,
+        "minor": 7,
+        "patch": 7,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.7.7-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "e6095b1a072f34867c593617eb623615cb6d2092211d5feeebf76d8db29b5e15ba42e1f084f082d58627d64a03daacfee7f9ebbd86efa45c79eb5bbcb154dec7",
+      "type": "Unknown",
+      "displayName": "Python 3.7.7 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/data7/panyunpeng/transform_model": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:65e266fa1cae42031708e022415aefcd": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:65e266fa1cae42031708e022415aefcd": [
+      {
+        "architecture": 3,
+        "path": "/data7/panyunpeng/transform_model/venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.12-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.12-final"
+        },
+        "sysPrefix": "/data7/panyunpeng/transform_model/venv",
+        "fileHash": "ef303f393313f207548e0c1f1faf1e94bb8a2a0b40174d29179ed74205f6b8cdb3dd22147a44ffb6ea4ca4a0716c0f57b7f614e7eb947c1979c5f1df83a14f85",
+        "envName": "venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/data7/panyunpeng/transform_model/venv/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.12-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.12-final"
+        },
+        "sysPrefix": "/data7/panyunpeng/transform_model/venv",
+        "fileHash": "ef303f393313f207548e0c1f1faf1e94bb8a2a0b40174d29179ed74205f6b8cdb3dd22147a44ffb6ea4ca4a0716c0f57b7f614e7eb947c1979c5f1df83a14f85",
+        "envName": "venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/data7/panyunpeng/transform_model/venv/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.12-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.12-final"
+        },
+        "sysPrefix": "/data7/panyunpeng/transform_model/venv",
+        "fileHash": "66f53e69ef2fe3986491db48be78e921db79a021661bd5b70e7ac8ad96d382acda7e05559d229f8751da9d6d9652ef20e145c67e8bf49b4e98a5dbd0ef8aa508",
+        "envName": "venv",
+        "type": "Venv"
+      }
+    ],
+    "SelectedPythonPath": "/data7/panyunpeng/transform_model/venv/bin/python2.7",
+    "autoSelectedWorkspacePythonInterpreter-/data7/panyunpeng/transform_model": {
+      "architecture": 3,
+      "path": "/data7/panyunpeng/transform_model/venv/bin/python2.7",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "2.7.12-final",
+        "major": 2,
+        "minor": 7,
+        "patch": 12,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "2.7.12-final"
+      },
+      "sysPrefix": "/data7/panyunpeng/transform_model/venv",
+      "fileHash": "66f53e69ef2fe3986491db48be78e921db79a021661bd5b70e7ac8ad96d382acda7e05559d229f8751da9d6d9652ef20e145c67e8bf49b4e98a5dbd0ef8aa508",
+      "envName": "venv",
+      "type": "Venv"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [
+      {
+        "architecture": 3,
+        "path": "/data7/panyunpeng/transform_model/venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.12-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.12-final"
+        },
+        "sysPrefix": "/data7/panyunpeng/transform_model/venv",
+        "fileHash": "ef303f393313f207548e0c1f1faf1e94bb8a2a0b40174d29179ed74205f6b8cdb3dd22147a44ffb6ea4ca4a0716c0f57b7f614e7eb947c1979c5f1df83a14f85",
+        "envName": "venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/data7/panyunpeng/transform_model/venv/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.12-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.12-final"
+        },
+        "sysPrefix": "/data7/panyunpeng/transform_model/venv",
+        "fileHash": "ef303f393313f207548e0c1f1faf1e94bb8a2a0b40174d29179ed74205f6b8cdb3dd22147a44ffb6ea4ca4a0716c0f57b7f614e7eb947c1979c5f1df83a14f85",
+        "envName": "venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/data7/panyunpeng/transform_model/venv/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.12-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.12-final"
+        },
+        "sysPrefix": "/data7/panyunpeng/transform_model/venv",
+        "fileHash": "66f53e69ef2fe3986491db48be78e921db79a021661bd5b70e7ac8ad96d382acda7e05559d229f8751da9d6d9652ef20e145c67e8bf49b4e98a5dbd0ef8aa508",
+        "envName": "venv",
+        "type": "Venv"
+      }
+    ]
+  },
+  "coc-python|/data3/wanghuaidong/dev/fealib_env/v21.analyze": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:450ad5a1203753ca14faf69576a6dbe8": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:450ad5a1203753ca14faf69576a6dbe8": [],
+    "autoSelectedWorkspacePythonInterpreter-/data3/wanghuaidong/dev/fealib_env/v21.analyze": {
+      "architecture": 3,
+      "path": "/usr/bin/python3.7",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.7.7-final",
+        "major": 3,
+        "minor": 7,
+        "patch": 7,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.7.7-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "e6095b1a072f34867c593617eb623615cb6d2092211d5feeebf76d8db29b5e15ba42e1f084f082d58627d64a03daacfee7f9ebbd86efa45c79eb5bbcb154dec7",
+      "type": "Unknown",
+      "displayName": "Python 3.7.7 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  }
+}

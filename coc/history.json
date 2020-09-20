@@ -1,0 +1,45 @@
+{
+  "commands": {
+    "%2Fdata3%2Fwanghuaidong%2F": {
+      "config%2Fnvim%2Ftm": [
+        "set"
+      ]
+    },
+    "%2Fdata3%2Fwanghuaidong%2Fdev%2Fmodel_serving_framework": {
+      "comment": [
+        "setpre"
+      ]
+    }
+  },
+  "symbols": {
+    "%2Fdata3%2Fwanghuaidong%2Fdev%2Fmodel_serving_framework": {
+      "comment": [
+        "procref",
+        "builddag",
+        "buildDag",
+        "procRef",
+        "DenseFeatureSink",
+        "onChai",
+        "jynjoin",
+        "dynjoin",
+        "onChainq",
+        "basefunc::gen",
+        "broadcast",
+        "copy::gen"
+      ]
+    },
+    "%2Fdata3%2Fwanghuaidong%2Fdev%2Frec_framework%2Fapp%2Fhagobbs%2Frouter": [
+      "p_uid_action",
+      "p_u_action",
+      "rcitem"
+    ]
+  },
+  "outline": {
+    "%2Fdata3%2Fwanghuaidong%2Fdev%2Fmodel_serving_framework": {
+      "comment": [
+        "onchain",
+        "chain"
+      ]
+    }
+  }
+}

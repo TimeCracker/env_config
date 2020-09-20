@@ -1,0 +1,5 @@
+clangd.switchSourceHeader
+clangd.symbolInfo
+clangd.install
+clang.install
+python.setInterpreter
