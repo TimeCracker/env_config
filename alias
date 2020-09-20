@@ -1,0 +1,2 @@
+alias ni="nvim"
+alias shs="python -m SimpleHTTPServer"
