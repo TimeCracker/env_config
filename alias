@@ -1,2 +1,15 @@
 alias ni="nvim"
 alias shs="python -m SimpleHTTPServer"
+alias la='ls -A'
+alias ls='ls --color=auto'
+alias ll='ls -l'
+alias grep='grep --color=auto'
+alias go='ssh -p 32200'
+alias rm='rm -i'
+alias cp='cp -i'
+alias mv='mv -i'
+alias vi='/usr/bin/vim'
+
+source /usr/local/hadoop3rc
+export KRB5PRINCIPAL=reco_hago
+export KRB5KEYTAB=/usr/local/hadoop3/etc/hadoop/reco_hago.keytab
