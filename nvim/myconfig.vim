@@ -108,13 +108,25 @@ set fencs=utf-8,gb2312,gb18030,gbk,ucs-bom,cp936,latin1
 onoremap ae :normal!0f=lv$h<cr>
 
 " let g:gruvbox_(option) = '(value)'
-let g:gruvbox_contrast_dark = 'soft'
+" let g:gruvbox_contrast_dark = 'soft'
 " let g:gruvbox_contrast_dark = 'medium'
 " let g:gruvbox_contrast_dark = 'hard'
+" let g:material_theme_style = 'lighter'
+" let g:material_theme_style = 'palenight'
+" let g:material_theme_style = 'ocean'
+" let g:material_theme_style = 'darker'
+" let g:material_theme_style = 'default'
+" let g:material_theme_style = 'lighter-community'
+" let g:material_theme_style = 'palenight-community'
+" let g:material_theme_style = 'ocean-community'
+" let g:material_theme_style = 'darker-community'
+let g:material_theme_style = 'default-community'
 
-set background=dark
+
+" set background=dark
 " set background=light
-colorscheme gruvbox
+colorscheme material
+" colorscheme gruvbox
 " colorscheme molokai
 " colorscheme solarized
 " colorscheme solarized8
