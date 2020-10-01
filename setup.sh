@@ -41,6 +41,9 @@ else
     cp -rf ${cur_script_dir}/coc ${new_home}/.config
 fi
 
+bash tools_install.sh
+bash add_alias.sh
+
 
 echo "Now you need to run: zsh -> source ~/.zshrc -> :PlugInstall in nvim"
 echo "Now you need to run: zsh -> source ~/.zshrc -> :PlugInstall in nvim"
